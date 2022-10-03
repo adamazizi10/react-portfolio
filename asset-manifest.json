@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/react-portfolio/static/js/main.117a9f38.js",
-    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
-    "static/media/logo.svg": "/react-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/react-portfolio/static/css/main.b8d995ed.css",
+    "main.js": "/react-portfolio/static/js/main.97450fe1.js",
+    "static/media/face-detector.png": "/react-portfolio/static/media/face-detector.33634c847686966428af.png",
+    "static/media/face-detector2.png": "/react-portfolio/static/media/face-detector2.c2a052b0a86086bee73c.png",
+    "static/media/Book1.png": "/react-portfolio/static/media/Book1.de499be719555553a8e4.png",
+    "static/media/Book2.png": "/react-portfolio/static/media/Book2.4ca0f04146c176a1fa34.png",
+    "static/media/erindale.jpg": "/react-portfolio/static/media/erindale.1f0373abc46ab463fc72.jpg",
     "index.html": "/react-portfolio/index.html",
-    "main.073c9b0a.css.map": "/react-portfolio/static/css/main.073c9b0a.css.map",
-    "main.117a9f38.js.map": "/react-portfolio/static/js/main.117a9f38.js.map",
-    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+    "main.b8d995ed.css.map": "/react-portfolio/static/css/main.b8d995ed.css.map",
+    "main.97450fe1.js.map": "/react-portfolio/static/js/main.97450fe1.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.117a9f38.js"
+    "static/css/main.b8d995ed.css",
+    "static/js/main.97450fe1.js"
   ]
 }
