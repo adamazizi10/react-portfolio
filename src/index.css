@@ -100,7 +100,7 @@ nav {
 @media screen and (max-device-width:991px), screen and (max-width:991px) {
     .img-phone {
       width: 300px;
-      height: 300px ;
+      height: auto ;
       display: flex;
     
     }
@@ -109,7 +109,7 @@ nav {
 @media screen and (max-device-width:500px), screen and (max-width:500px) {
   .img-phone {
     width: 300px;
-    height: 300px ;
+    height: auto ;
   
   }
 }
@@ -386,3 +386,4 @@ color: #ff0000;
   display: flex;
 }
 }
+

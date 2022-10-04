@@ -1,8 +1,28 @@
  
 import Salumatics from "./assets/portfolioImages/Salumatics.png";
 import erindale from "./assets/portfolioImages/erindale.jpg"
+import tetra from "./assets/portfolioImages/tetra.jpg"
  
 const ExperiencesData = [
+  {
+    id: "tetra-ryerson",
+    job: "Software Engineer",
+    img: tetra,
+    Type: "",
+    date: "May 2022 - Oct 2022",
+    stack: [" Kotlin "],
+    name: "Tetra Ryerson",
+    location: "Toronto, Ontario, Canada",
+    live: "https://tetraryerson.ca/",
+    source: "https://www.linkedin.com/company/tetraryerson/mycompany/",
+    description1: 
+    "-Using Kotlin to design and build a mobile application as the primary solution for the hospital bed project",
+    description2:
+    "-Testing the software, finding faults, and fixing any issues in the code that may arise.",
+    description3: 
+    "-Creating the user interface (UI) using iOS/android that determines what each part of the application does and how it will look",
+
+  },
    
   {
     id: "salumatics",

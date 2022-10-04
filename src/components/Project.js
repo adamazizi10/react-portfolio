@@ -8,7 +8,7 @@ function Project({id, image, name, stack, live, source, Tech, date, image2, desc
         <div className="card mb-5" style={{maxWidth:'900px'}}>
         <div className="g-0 d-flex flex-column flex-lg-row align-items-center ">
             <div className="">
-                <img src={image} className="img-fluid rounded-start project-img img-phone" alt={name} />
+                <img src={image} className="img-fluid rounded-start project-img img-phone the-img-adjust" alt={name} />
                 <img src={image2} className="img-fluid rounded-start project-img img-phone" alt={name} />
             </div>
             <div className="">
@@ -16,7 +16,7 @@ function Project({id, image, name, stack, live, source, Tech, date, image2, desc
                     <h5 className="card-title mt-2">{name}</h5>
                     <p className='grey-text mb-1'>{Tech}</p>
                     <p className='grey-text mb-3'>{date}</p>
-                    <p className="card-text">{desc1}<br /><br />{desc2}<br />{desc3}<br />{desc4}<br />{desc5}<br />{desc6}</p>
+                    <p className="card-text"><br />{desc1}<br /><br />{desc2}<br /><br />{desc3}<br /><br />{desc4}<br /></p>
                     <div className="mt-5 align-text-bottom">
                         <p className="card-text">{stack}</p>
                             <p className="card-text d-flex gap-4">
