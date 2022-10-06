@@ -9,7 +9,7 @@ const ExperiencesData = [
     job: "Software Engineer",
     img: tetra,
     Type: "",
-    date: "May 2022 - Oct 2022",
+    date: "Oct 2022 - Present",
     stack: [" Kotlin "],
     name: "Tetra Ryerson",
     location: "Toronto, Ontario, Canada",
