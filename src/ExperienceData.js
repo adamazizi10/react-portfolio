@@ -6,7 +6,7 @@ import tetra from "./assets/portfolioImages/tetra.jpg"
 const ExperiencesData = [
   {
     id: "tetra-ryerson",
-    job: "Software Engineer",
+    job: "Software Developer",
     img: tetra,
     Type: "",
     date: "Oct 2022 - Present",
